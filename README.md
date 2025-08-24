@@ -34,5 +34,7 @@ The focus is on aggregation functions, grouping, ordering, and filtering data.
 
 ### Q4: Highest Payment per Check Number
 - Find the highest payment amount associated with each check number.
+- Group the results by check number.
+
 
 
